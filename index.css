@@ -1,0 +1,42 @@
+html {
+    min-height: 50vh;
+    max-width: 150px;
+    padding: 0 auto;
+    margin:0 auto !important;
+}
+
+body {
+    background-color: aliceblue;
+    min-height: 50vh;
+    max-width: 150px;
+    background-color: papayawhip;
+    padding:0 auto;
+    margin: 0 auto !important;
+}
+
+h1 {
+    color: black;
+}
+
+div {
+    text-align: center;
+}
+
+button {
+    height: 25px;
+    width: 45px;
+    border: none;
+    color: white;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.start-btn {
+    background-color: rgb(61, 245, 61);
+}
+
+.stop-btn {
+    background-color: rgb(248, 46, 46);
+}
