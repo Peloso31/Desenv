@@ -1,0 +1,18 @@
+{
+  "extends": [
+    "html",
+    "stylelint-config-standard"
+  ],
+  "rules": {
+    "no-console": "off",
+    "no-unused-vars": "off",
+    "no-undef": "off",
+    "no-var": "error",
+    "prefer-const": "error",
+    "prefer-arrow-callback": "error",
+    "arrow-body-style": "error"
+  },
+  "hints": {
+    "button-type": "off"
+  }
+}
